@@ -6,8 +6,8 @@ require 'rake_process_manager/version'
 Gem::Specification.new do |spec|
   spec.name = 'rake_process_manager'
   spec.version = RakeProcessManager::VERSION
-  spec.authors = ['Toby Clemson']
-  spec.email = ['tobyclemson@gmail.com']
+  spec.authors = ['InfraBlocks Maintainers']
+  spec.email = ['maintainers@infrablocks.io']
 
   spec.summary = 'Rake tasks for managing processes.'
   spec.description = 'Rake tasks for starting and stopping background ' +
