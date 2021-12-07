@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rake_process_manager (0.4.0.pre.1)
+    rake_process_manager (0.4.0.pre.2)
       rake_factory (>= 0.23, < 1)
 
 GEM
@@ -120,4 +120,4 @@ DEPENDENCIES
   simplecov (~> 0.16)
 
 BUNDLED WITH
-   2.2.18
+   2.2.32
