@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rake_process_manager (0.6.0.pre.3)
+    rake_process_manager (0.6.0.pre.4)
       rake_factory (~> 0.23)
 
 GEM
